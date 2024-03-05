@@ -1,0 +1,7 @@
+type Card @model {
+  id: ID
+  active: Boolean
+  access_token: String
+  expires_at: String
+  type: String
+}
