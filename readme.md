@@ -6,9 +6,6 @@ This web app allows you to host as many bonuscards as you can create. With a sim
 
 ![sample](https://github.com/M-rtn/bonus-hamster/assets/19554624/50f4398c-f736-4893-8372-74b16d8d845a)
 ![sample_1](https://github.com/M-rtn/bonus-hamster/assets/19554624/3795730f-fb8a-4fd4-85eb-06cbc2f372f8)
-![sample_2](https://github.com/M-rtn/bonus-hamster/assets/19554624/86e1f08a-7265-44ac-9051-52af121d917d)
-
-
 
 
 ## How does it work?
