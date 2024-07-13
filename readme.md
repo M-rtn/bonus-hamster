@@ -1,5 +1,5 @@
 
-# Onpersoonlijke Bonus App [inactive[
+# Onpersoonlijke Bonus App [inactive]
 
 This web app allows you to host as many bonuscards as you can create. With a simple mobile friendly view you can scroll through your cards and select the one which gives you the most Bonus!
 
